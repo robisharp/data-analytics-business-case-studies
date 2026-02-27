@@ -49,7 +49,7 @@ Case_XX_Topic_Name/
 
 ├── dashboard.pbix → Power BI dashboard (if applicable)
 
-├── dataset.csv → Dataset used
+├── dataset → Dataset used (if needed)
 
 └── insights.md → Key findings & business recommendations
 
