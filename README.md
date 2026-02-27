@@ -40,11 +40,17 @@ Each case study is organized in a **separate folder** using a clean and consiste
 Case_XX_Topic_Name/
 │
 ├── report.pdf → Business & analytical report
+
 ├── analysis&dashbpard.xlsx → excel-based analysis and dashboard(if applicable)
+
 ├── analysis.ipynb → Python-based analysis (if applicable)
+
 ├── queries.sql → SQL queries (if applicable)
+
 ├── dashboard.pbix → Power BI dashboard (if applicable)
+
 ├── dataset.csv → Dataset used
+
 └── insights.md → Key findings & business recommendations
 
 ---
