@@ -36,3 +36,53 @@ This portfolio is designed to demonstrate readiness for:
 ## 📂 Repository Structure
 
 Each case study is organized in a **separate folder** using a clean and consistent structure:
+
+Case_XX_Topic_Name/
+│
+├── report.pdf → Business & analytical report
+├── analysis&dashbpard.xlsx → excel-based analysis and dashboard(if applicable)
+├── analysis.ipynb → Python-based analysis (if applicable)
+├── queries.sql → SQL queries (if applicable)
+├── dashboard.pbix → Power BI dashboard (if applicable)
+├── dataset.csv → Dataset used
+└── insights.md → Key findings & business recommendations
+
+---
+
+## 📊 Case Study Index
+
+01. Advertising Statistical Analysis  
+...
+
+*(List grows continuously as new case studies are added.)*
+
+---
+
+## 🧠 Key Learning Outcomes
+
+Through these case studies, I continuously strengthen:
+
+- Analytical thinking  
+- Business storytelling  
+- Dashboard design  
+- Data interpretation  
+- Strategic recommendations  
+- End-to-end problem-solving  
+
+---
+
+## 👩‍💼 About Me
+
+**Name:** Robisha R P  
+**Program:** MBA – Business Analytics  
+**Career Focus:** Data Analytics, Business Analytics and Data Science
+
+---
+
+## 🔗 Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/robisha-r-p-b981b4379/ 
+**GitHub:**  https://github.com/robisharp/data-analytics-business-case-studies
+
+---
+
